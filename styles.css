@@ -307,3 +307,41 @@ nav {
    width:86px;
 justify-self: flex-start;
  }
+
+ @media screen and (max-width:990px) {
+  header {      
+    flex-direction: column;
+    /* font-size: 0.9rem; */
+    background-color: #111;
+  }
+ .nav-item {
+  font-size:0.8rem;
+ }
+  nav {
+    column-gap:16px;
+  }
+
+  .hero-section {
+    flex-direction: column;
+    gap:24px;
+    padding:24px;
+  }
+  .hero-section img {
+    width:100%;
+  }
+  .product-section {
+    flex-direction: column;
+  }
+  .product-card {
+    width:100%;
+  }
+  .product-section-2 {
+    padding : 0 24px;
+  }
+  .feature-1,.contact-section{
+    flex-direction: column;
+  }
+  .box-2{
+    grid-template-columns: 1fr;
+  }
+ }
