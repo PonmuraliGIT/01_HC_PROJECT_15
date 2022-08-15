@@ -7,4 +7,4 @@ This project is Product Design page done as a part of assignment.
 - Ponmurali
     - HTML-CSS  Layouts using grid and flex. handling flex and grid together.
     - 2 Hour
-    - [Project](https://lively-mochi-fcf0af.netlify.app/)
+    - [Project](https://shimmering-piroshki-7d3627.netlify.app/)
